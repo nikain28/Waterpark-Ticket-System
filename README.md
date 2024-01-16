@@ -8,7 +8,7 @@ Welcome to WaterParkistre, your gateway to a seamless and efficient water park e
 Enter WaterParkistre – an innovative ticketing system designed to enhance your water park journey. Say goodbye to lengthy queues and hello to the convenience of online ticket booking. With WaterParkistre, visitors can effortlessly input their details, select desired categories, and make secure online payments, all from the comfort of their devices.
 
 
-**Ticket Categories and Floaters for Every Enjoyment**
+## **Ticket Categories and Floaters for Every Enjoyment**
 
 Enjoy a variety of categories tailored to different age groups, ensuring a delightful experience for everyone. From Junior Kids (free entry) to Teens and Adults, WaterParkistre offers a range of options. Additionally, choose from our selection of floaters for an extra touch of fun, available at affordable rental prices.
 
@@ -28,7 +28,7 @@ FLOATER FOR RENT
 | Double | 30         |
 
 
-**Advantages of WaterParkistre**
+## **Advantages of WaterParkistre**
 
 - **Time Efficiency:** No more waiting in line. WaterParkistre streamlines the reservation process, reducing congestion and waiting times, ensuring you spend more time enjoying the park.
 
